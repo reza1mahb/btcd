@@ -1,12 +1,8 @@
 module github.com/binance-chain/btcd
 
 require (
-	github.com/binance-chain/btclog v0.0.0-20170628155309-84c8d2346e9f
-	github.com/binance-chain/btcutil v1.0.3-0.20201208143702-a53e38424cce
-	github.com/binance-chain/go-socks v0.0.0-20170105172521-4720035b7bfd
-	github.com/binance-chain/goleveldb v1.0.0
-	github.com/binance-chain/websocket v0.0.0-20150119174127-31079b680792
-	github.com/binance-chain/winsvc v1.0.0
+	github.com/binance-chain/goleveldb v1.0.2 // indirect
+	github.com/binance-chain/btcutil v1.0.4
 	github.com/davecgh/go-spew v1.1.1
 	github.com/decred/dcrd/lru v1.0.0
 	github.com/jessevdk/go-flags v1.4.0
